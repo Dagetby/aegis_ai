@@ -1,0 +1,10 @@
+# Go build
+**/bin/
+**/vendor/
+
+# Node
+frontend/node_modules
+frontend/dist
+
+# Env
+.env
